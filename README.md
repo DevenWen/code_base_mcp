@@ -31,4 +31,5 @@ claude
 ## claude 
 ```bash
 claude 
+> "使用 SKILL 为 WoQueryOuterServiceImpl searchWorkOrderInfo 这个 Java 方法，生成全名 的测试用例"
 ```
