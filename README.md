@@ -17,7 +17,7 @@ uv run code-base-cli \
   --report-id 5442474 \
   -v
 ```
-输出：代码及覆盖率格式化数据库 dbs/wos-service.db  默认使用最后一个 wos-service 目录
+输出：代码及覆盖率格式化数据库 dbs/wos-service.db  默认使用最后一个 wos-service 目录作为 db 的名称
 
 ## start mcp
 ```bash
